@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <rodzaj>
+    <pociag>
+        <predkosc jednostka="km/h">100</predkosc>
+        <cena jednostka="PLN">17</cena>
+        <dystans jednostka="km">105</dystans>
+        <dostepnosc skala="1-10">5</dostepnosc>
+    </pociag>
+    <pociag>
+        <predkosc jednostka="km/h">50</predkosc>
+        <cena jednostka="PLN">5</cena>
+        <dystans jednostka="km">20</dystans>
+        <dostepnosc skala="1-10">7</dostepnosc>
+    </pociag>
+    <rower>
+        <predkosc jednostka="km/h">25</predkosc>
+        <cena jednostka="PLN">0</cena>
+        <dystans jednostka="km">10</dystans>
+        <dostepnosc skala="1-10">8</dostepnosc>
+    </rower>
+    </rodzaj>
+</transport>

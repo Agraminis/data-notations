@@ -9,4 +9,14 @@
         </specs>
         <price currency="USD">799</price>
     </smartphone>
+
+    <smartphone brand="Samsung" model="Galaxy S23 Ultra 5g" releaseYear="2023">
+        <specs>
+            <screenSize unit="inch">6.8</screenSize>
+            <batteryCapacity unit="mAh">5000</batteryCapacity>
+            <storage unit="GB">512</storage>
+            <camera unit="MP">200</camera>
+        </specs>
+        <price currency="PLN">3899</price>
+    </smartphone>    
 </smartphones>
